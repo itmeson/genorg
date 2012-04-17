@@ -1,5 +1,6 @@
 
 Course Description
+------------------
 
 This course examines the chemistry of carbon-containing molecules
 relevant to biological systems, such as the human body, beginning with
@@ -12,6 +13,7 @@ importance.
 
 
 Course Objectives
+-----------------
 
 From materials presented in class or in assigned readings, students
 will be able to: 
