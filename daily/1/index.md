@@ -49,6 +49,10 @@ solid, liquid, gas, physical vs. chemical properties, physical
 vs. chemical changes, pure substance, mixture, heterogeneous mixtures,
 homogeneous mixtures, elements, compounds.
 
+Q?  Are there simulations/demos I can use to demonstrate/explore some
+of these concepts?
+
+
 How do we know about the elements?  How do we know if something is an
 element or a compound?
 
@@ -74,3 +78,4 @@ Density, conversion factors, rates of change
 
 Temperature
 
+Q? Which algebra activities best exemplify measurement, rates, etc.?
