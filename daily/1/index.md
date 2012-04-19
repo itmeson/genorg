@@ -42,7 +42,8 @@ situations where you will start with a feeling of hopelessness, but
 still be able to figure out how to do it.
 
 
-Basic Concepts About Matter --------------------------- 
+Basic Concepts About Matter 
+--------------------------- 
 
 solid, liquid, gas, physical vs. chemical properties, physical
 vs. chemical changes, pure substance, mixture, heterogeneous mixtures,
