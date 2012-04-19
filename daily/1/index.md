@@ -66,16 +66,30 @@ Atoms, molecules, chemical formulas
 Measurement
 -----------
 
-This is the algebra review and extension session.
+From the Garoutte activity book, ChemActivity 1:
 
-Measurement and estimation activities.  How much stuff is in this
-bottle?  How much of it would it take to fill the entire room?  How
-many pennies to tile the floor?  and similar
+Students are to determine how many ping-pong balls it will take to
+fill the entire room.  They are given nothing -- they must ask for
+anything that they believe they need.  If they want to measure, then
+they should measure.  (Q?:  Do we have rulers? Micrometers? Calipers?)
 
-Scientific notation, metric system
+The goal of this first activity is to acquaint students with the
+process of the ChemActivities, and to the various roles they will
+take: Manager, Presenter, Recorder, and Reflector.  I'll be providing
+whiteboards and pens to each group, and taking snapshots of
+interesting work as they progress.  
 
-Density, conversion factors, rates of change
+Extension can be made by estimating other measurements of the room,
+and extrapolating small scale measurements to larger ones.  This
+should encourage the use of scientific notation and significant
+figures, as well as unit conversion.  I will also have them find the
+weight of the classroom in water.
 
-Temperature
+In particular, I'm looking for the ability to make symbolic and
+abstract computations, and algebraic thinking.  If students seem
+particularly weak in algebra, we will arrange extra practice.
 
-Q? Which algebra activities best exemplify measurement, rates, etc.?
+Finally we'll do some rates of change calculations using video to get
+them to estimate or determine a rate, and use it to compute time to
+completion.
+
