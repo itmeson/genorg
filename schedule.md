@@ -1,9 +1,9 @@
- *  Day 1: 
+ *  [Day 1](daily/1/): 
 
     Ch1 Basic Concepts about matter
     Ch2 Measurements in chemistry
 
- *  Day 2:
+ *  [Day 2](daily/2/):
 
     Ch3 Atomic structure and the periodic table
 
