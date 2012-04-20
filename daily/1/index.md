@@ -93,3 +93,4 @@ Finally we'll do some rates of change calculations using video to get
 them to estimate or determine a rate, and use it to compute time to
 completion.
 
+(Homework #1)[hw.md] is due at the beginning of class on Day 2.
