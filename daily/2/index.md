@@ -1,4 +1,4 @@
-Atomic Structure and the Period Table
+Atomic Structure and the Periodic Table
 =====================================
 Got to find some models, sims
 
