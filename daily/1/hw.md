@@ -1,7 +1,7 @@
 Homework Day 1
 ==============
 
- 1 Read chapters 1 and 2.  Write a summary of the main idea of each
+ 1 Read chapters 1, 2, and 3.  Write a summary of the main idea of each
  chapter.
 
  2 Prepare a glossary of at least 10 words, concepts, or ideas from
