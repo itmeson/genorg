@@ -42,31 +42,12 @@ situations where you will start with a feeling of hopelessness, but
 still be able to figure out how to do it.
 
 
-Basic Concepts About Matter 
---------------------------- 
-
-solid, liquid, gas, physical vs. chemical properties, physical
-vs. chemical changes, pure substance, mixture, heterogeneous mixtures,
-homogeneous mixtures, elements, compounds.
-
-Q?  Are there simulations/demos I can use to demonstrate/explore some
-of these concepts?
-
-
-How do we know about the elements?  How do we know if something is an
-element or a compound?
-
-Atoms, molecules, chemical formulas
-
- 
-
-
-
-
 Measurement
 -----------
 
 From the Garoutte activity book, ChemActivity 1:
+
+Develop the POGIL setup and roles:  Manager, Presenter, Recorder, Strategist
 
 Students are to determine how many ping-pong balls it will take to
 fill the entire room.  They are given nothing -- they must ask for
@@ -93,4 +74,42 @@ Finally we'll do some rates of change calculations using video to get
 them to estimate or determine a rate, and use it to compute time to
 completion.
 
+
+Basic Concepts About Matter 
+--------------------------- 
+
+ChemActivity 2  Types of changes
+
+solid, liquid, gas, physical vs. chemical properties, physical
+vs. chemical changes, pure substance, mixture, heterogeneous mixtures,
+homogeneous mixtures, elements, compounds.
+
+Q?  Are there simulations/demos I can use to demonstrate/explore some
+of these concepts?
+
+
+
+
+Follow-up with some physical examples of different kinds of mixtures
+and compounds.
+
+  Box of nuts and bolts
+  Box of nuts and bolts, screwed together
+  
+How would you classify these?
+
+How do we know about the elements?  How do we know if something is an
+element or a compound?
+
+Atoms, molecules, chemical formulas
+
+ 
+
+
+
 [Homework #1](hw.md) is due at the beginning of class on Day 2.
+
+Show them where the HW is on ulearn.
+Show them where the wiki feature is on ulearn.
+Show them how to submit their glossary entries for HW and for wiki.
+Show them where to find assignments, syllabus, grades, etc.
