@@ -72,7 +72,7 @@ particularly weak in algebra, we will arrange extra practice.
 
 Finally we'll do some rates of change calculations using video to get
 them to estimate or determine a rate, and use it to compute time to
-completion.
+completion.  printjob rate question.
 
 
 Basic Concepts About Matter 
