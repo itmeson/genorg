@@ -1,8 +1,13 @@
-Exam I -- Chapters 1 - 5
+Exam I -- Chapters 1 - 4
 ========================
 
 
+Chemical Bonding: Covalent Bonds
+================================
 
 
-Chemical calculations
-=====================
+Chemical Calculations: Formula masses, moles, etc.
+==================================================
+
+
+
