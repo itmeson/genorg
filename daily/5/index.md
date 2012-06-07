@@ -1,7 +1,9 @@
-Gases, Liquids, and Solids
-==========================
+Chemical Bonding: Covalent Bonds and Dot structures
+==================================================
 
 
 
-Solutions
-=========
+Chemical calculations: Formula masses and equations
+===================================================
+
+
