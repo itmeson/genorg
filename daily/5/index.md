@@ -14,6 +14,7 @@ How do you predict a bonding arrangement?
  3. Can either atom give up/accept more?  Figure out the proportions that work.
  4. Check for blocking due to: electronegativity, geometry, inadequate shell model (when we're dealing with d-block metals)
 
+Self-test: C_2 H_4,  C_3 H_6
 
 
 Chemical calculations: Formula masses and equations
