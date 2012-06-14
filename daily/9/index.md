@@ -1,6 +1,3 @@
-Alcohols, Phenols, and Ethers
-=============================
+Alkanes
+========
 
-
-Aldehydes and Ketones
-=====================
